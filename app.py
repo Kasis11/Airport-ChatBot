@@ -3,7 +3,7 @@
 import streamlit as st
 import requests
 
-API_URL = "https://6887313def0ea37977f205df--voluble-custard-6ec933.netlify.app/ask"
+API_URL = "http://127.0.0.1:8000/ask"
 
 st.set_page_config(page_title="Changi Airport Chatbot", page_icon="🛫")
 st.title("🛫 Changi Airport AI Chatbot")
