@@ -6,6 +6,6 @@ langchain-core
 langchain-groq
 langchain-huggingface
 sentence-transformers
-chromadb
 fastapi
 uvicorn
+huggingface_hub

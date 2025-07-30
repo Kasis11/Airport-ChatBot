@@ -1,4 +1,6 @@
 
+import os
+os.environ["STREAMLIT_CONFIG_DIR"] = "./.streamlit"
 
 import streamlit as st
 import requests
